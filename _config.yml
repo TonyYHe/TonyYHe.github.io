@@ -27,7 +27,7 @@ author:
   name             : "Tony Yong He"
   pronouns         : # example: "she/her"  
   bio              : "Honours student @ UNSW"
-  location         : "Kensington Sydney NSW Australia"
+  location         : "Kensington Sydney NSW"
   # employer         : "University of New South Wales"
   uri              : # URL
   email            : "tony.y.he@student.unsw.edu.au" 
@@ -234,6 +234,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   courses:
+    output: true
+    permalink: /:collection/:path/
+  notes:
     output: true
     permalink: /:collection/:path/
 
