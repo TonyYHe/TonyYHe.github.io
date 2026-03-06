@@ -1,0 +1,65 @@
+---
+layout: archive
+title: "Courses"
+permalink: /courses/
+author_profile: true
+---
+
+This is the list of courses I took during my undergraduate studies and my honours year.
+- S1 2021
+    - COMP10001 Foundations of Computing
+    - FNCE10002 Principles of Finance
+    - MAST10006 Calculus 2
+    - MAST10007 Linear Algebra
+- S2 2021
+    - CCDP10003 Video Games: Remaking Reality
+    - COMP10002 Foundations of Algorithm
+    - COMP20008 Elements of Data Processing
+    - INFO20003 Database Systems
+- Summer 2022
+    - FNCE20005 Corporate Financial Decision Making
+- S1 2022
+    - COMP20006 Design of Algorithms
+    - ENVS10006 Mapping Environments
+    - MAST20004 Probability
+    - SWEN20003 Object Oriented Software Development
+- S2 2022
+    - COMP30020 Declarative Programming
+    - FNCE30001 Investments
+    - MAST30025 Statistics
+    - SWEN30006 Software Modelling and Design
+- S1 2023 at the National University of Singapore
+    - CS1231 Discrete Structures
+    - CS2107 Introduction to Information Security
+    - EE4802 Learning from Data
+    - EE4210 Network Protocals and Applications
+- S2 2023
+    - COMP30022 IT Project
+    - COMP30026 Models of Computation
+    - MAST20018 Discrete Math and Operations Research
+    - MAST20026 Real Anlaysis
+- S1 2024
+    - COMP30024 Artificial Intelligence
+    - MAST30011 Graph Theory
+- S2 2024 at the University of Michigan Ann Arbor
+    - EECS 376 Foundations of Computer Science
+    - EECS 453 Principles of Machine Learning
+    - EECS 442 Computer Vision
+    - SI 504 Servers, Shell, and Git
+- S1 2025
+    - ELEN20006 Digital Systems
+    - MAST30025 Linear Statistical Models
+- S2 2025
+    - MAST30001 Stochastic Modelling
+    - MAST30027 Modern Applied Statistics
+- T1 2026
+    - COMP3131 Programming Languages and Compilers
+    - COMP9315 Database Systems Implementation
+    - COMP4961 Computer Science Thesis A
+- T2 2026 (Planned)
+    - COMP3231 Operating Systems
+    - COMP3211 Computer Architecture
+    - COMP6771 Advanced C++ Programming
+- T3 2026 (Planned)
+    - COMP4961 Computer Science Thesis B
+    - COMP4961 Computer Science Thesis C
