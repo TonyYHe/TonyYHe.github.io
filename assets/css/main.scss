@@ -41,3 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ----------------------------------------------------------- */
+/* SUBMODULE FIX: Hide duplicate H1 titles from Markdown files */
+/* ----------------------------------------------------------- */
+.page__content > h1:first-child {
+    display: none;
+}
