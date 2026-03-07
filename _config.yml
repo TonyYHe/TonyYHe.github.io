@@ -165,6 +165,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - notes
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -236,9 +237,6 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
-  notes:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -296,8 +294,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+  # notes
+  - scope:
+      path: "notes"
+    values:
+      layout: "single"
+      author_profile: true
 
+relative_links:
+  enabled: true
+  collections: true
 
 # Sass/SCSS
 sass:
@@ -320,6 +326,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-readme-index
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -329,6 +338,9 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-readme-index
 
 
 # Archives
