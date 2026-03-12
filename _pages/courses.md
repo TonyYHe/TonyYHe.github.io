@@ -28,7 +28,7 @@ This is the list of courses I took during my undergraduate studies and my honour
     - FNCE30001 Investments
     - MAST30025 Statistics
     - SWEN30006 Software Modelling and Design
-- S1 2023 at the National University of Singapore
+- S1 2023 @ the National University of Singapore
     - CS1231 Discrete Structures
     - CS2107 Introduction to Information Security
     - EE4802 Learning from Data
@@ -41,7 +41,7 @@ This is the list of courses I took during my undergraduate studies and my honour
 - S1 2024
     - COMP30024 Artificial Intelligence
     - MAST30011 Graph Theory
-- S2 2024 at the University of Michigan Ann Arbor
+- S2 2024 @ the University of Michigan Ann Arbor
     - EECS 376 Foundations of Computer Science
     - EECS 453 Principles of Machine Learning
     - EECS 442 Computer Vision
